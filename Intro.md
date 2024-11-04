@@ -108,4 +108,5 @@ several natural language processing concepts to make sense of previously
 untapped data sources, such as call center conversation logs and product reviews
 ```
 
+Next Day - https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/3-roles
 
